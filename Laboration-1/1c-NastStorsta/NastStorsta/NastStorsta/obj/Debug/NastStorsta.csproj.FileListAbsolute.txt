@@ -1,0 +1,6 @@
+c:\users\itzy\documents\visual studio 2012\Projects\NastStorsta\NastStorsta\bin\Debug\NastStorsta.exe.config
+c:\users\itzy\documents\visual studio 2012\Projects\NastStorsta\NastStorsta\bin\Debug\NastStorsta.exe
+c:\users\itzy\documents\visual studio 2012\Projects\NastStorsta\NastStorsta\bin\Debug\NastStorsta.pdb
+c:\users\itzy\documents\visual studio 2012\Projects\NastStorsta\NastStorsta\obj\Debug\NastStorsta.exe
+c:\users\itzy\documents\visual studio 2012\Projects\NastStorsta\NastStorsta\obj\Debug\NastStorsta.pdb
+c:\users\itzy\documents\visual studio 2012\Projects\NastStorsta\NastStorsta\obj\Debug\NastStorsta.csprojResolveAssemblyReference.cache

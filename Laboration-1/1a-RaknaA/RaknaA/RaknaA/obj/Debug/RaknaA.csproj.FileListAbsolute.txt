@@ -1,0 +1,5 @@
+c:\users\itzy\documents\visual studio 2012\Projects\RaknaA\RaknaA\bin\Debug\RaknaA.exe.config
+c:\users\itzy\documents\visual studio 2012\Projects\RaknaA\RaknaA\bin\Debug\RaknaA.exe
+c:\users\itzy\documents\visual studio 2012\Projects\RaknaA\RaknaA\bin\Debug\RaknaA.pdb
+c:\users\itzy\documents\visual studio 2012\Projects\RaknaA\RaknaA\obj\Debug\RaknaA.exe
+c:\users\itzy\documents\visual studio 2012\Projects\RaknaA\RaknaA\obj\Debug\RaknaA.pdb
