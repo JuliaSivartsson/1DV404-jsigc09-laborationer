@@ -1,0 +1,6 @@
+c:\users\itzy\documents\visual studio 2012\Projects\3b\3b\bin\Debug\3b.exe.config
+c:\users\itzy\documents\visual studio 2012\Projects\3b\3b\obj\Debug\3b.csprojResolveAssemblyReference.cache
+C:\Users\itzy\documents\visual studio 2012\Projects\3b\3b\bin\Debug\3b.exe
+C:\Users\itzy\documents\visual studio 2012\Projects\3b\3b\bin\Debug\3b.pdb
+C:\Users\itzy\documents\visual studio 2012\Projects\3b\3b\obj\Debug\3b.exe
+C:\Users\itzy\documents\visual studio 2012\Projects\3b\3b\obj\Debug\3b.pdb

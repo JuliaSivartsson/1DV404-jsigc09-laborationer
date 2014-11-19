@@ -3,3 +3,6 @@ c:\users\itzy\documents\visual studio 2012\Projects\RaknaA\RaknaA\bin\Debug\Rakn
 c:\users\itzy\documents\visual studio 2012\Projects\RaknaA\RaknaA\bin\Debug\RaknaA.pdb
 c:\users\itzy\documents\visual studio 2012\Projects\RaknaA\RaknaA\obj\Debug\RaknaA.exe
 c:\users\itzy\documents\visual studio 2012\Projects\RaknaA\RaknaA\obj\Debug\RaknaA.pdb
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\1a-RaknaA\RaknaA\RaknaA\bin\Debug\RaknaA.exe.config
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\1a-RaknaA\RaknaA\RaknaA\obj\Debug\RaknaA.exe
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\1a-RaknaA\RaknaA\RaknaA\obj\Debug\RaknaA.pdb

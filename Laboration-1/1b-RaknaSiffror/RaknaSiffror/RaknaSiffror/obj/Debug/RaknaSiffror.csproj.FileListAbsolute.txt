@@ -3,3 +3,6 @@ c:\users\itzy\documents\visual studio 2012\Projects\RaknaSiffror\RaknaSiffror\bi
 c:\users\itzy\documents\visual studio 2012\Projects\RaknaSiffror\RaknaSiffror\bin\Debug\RaknaSiffror.pdb
 c:\users\itzy\documents\visual studio 2012\Projects\RaknaSiffror\RaknaSiffror\obj\Debug\RaknaSiffror.exe
 c:\users\itzy\documents\visual studio 2012\Projects\RaknaSiffror\RaknaSiffror\obj\Debug\RaknaSiffror.pdb
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\1b-RaknaSiffror\RaknaSiffror\RaknaSiffror\bin\Debug\RaknaSiffror.exe.config
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\1b-RaknaSiffror\RaknaSiffror\RaknaSiffror\obj\Debug\RaknaSiffror.exe
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\1b-RaknaSiffror\RaknaSiffror\RaknaSiffror\obj\Debug\RaknaSiffror.pdb

@@ -4,3 +4,6 @@ C:\Users\itzy\Documents\Visual Studio 2012\Projects\NastStorsta\NastStorsta\bin\
 C:\Users\itzy\Documents\Visual Studio 2012\Projects\NastStorsta\NastStorsta\bin\Debug\NastStorsta.pdb
 C:\Users\itzy\Documents\Visual Studio 2012\Projects\NastStorsta\NastStorsta\obj\Debug\NastStorsta.pdb
 C:\Users\itzy\Documents\Visual Studio 2012\Projects\NastStorsta\NastStorsta\obj\Debug\aNastStorsta.csprojResolveAssemblyReference.cache
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\1c-NastStorsta\NastStorsta\NastStorsta\bin\Debug\NastStorsta.exe.config
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\1c-NastStorsta\NastStorsta\NastStorsta\obj\Debug\NastStorsta.exe
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\1c-NastStorsta\NastStorsta\NastStorsta\obj\Debug\NastStorsta.pdb

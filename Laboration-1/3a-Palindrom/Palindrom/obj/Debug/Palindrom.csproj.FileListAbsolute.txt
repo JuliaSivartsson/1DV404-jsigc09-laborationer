@@ -1,0 +1,12 @@
+c:\users\itzy\documents\visual studio 2012\Projects\Palindrom\Palindrom\bin\Debug\Palindrom.exe.config
+c:\users\itzy\documents\visual studio 2012\Projects\Palindrom\Palindrom\bin\Debug\Palindrom.exe
+c:\users\itzy\documents\visual studio 2012\Projects\Palindrom\Palindrom\bin\Debug\Palindrom.pdb
+c:\users\itzy\documents\visual studio 2012\Projects\Palindrom\Palindrom\obj\Debug\Palindrom.csprojResolveAssemblyReference.cache
+c:\users\itzy\documents\visual studio 2012\Projects\Palindrom\Palindrom\obj\Debug\Palindrom.exe
+c:\users\itzy\documents\visual studio 2012\Projects\Palindrom\Palindrom\obj\Debug\Palindrom.pdb
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\3a-Palindrom\Palindrom\bin\Debug\Palindrom.exe.config
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\3a-Palindrom\Palindrom\obj\Debug\Palindrom.exe
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\3a-Palindrom\Palindrom\obj\Debug\Palindrom.pdb
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\3a-Palindrom\Palindrom\bin\Debug\Palindrom.exe
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\3a-Palindrom\Palindrom\bin\Debug\Palindrom.pdb
+C:\Users\itzy\Documents\GitHub\1DV404-jsigc09-laborationer\Laboration-1\3a-Palindrom\Palindrom\obj\Debug\Palindrom.csprojResolveAssemblyReference.cache
