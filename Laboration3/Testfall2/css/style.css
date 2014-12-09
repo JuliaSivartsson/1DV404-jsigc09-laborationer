@@ -1,0 +1,48 @@
+body{
+    background-color: #8585AD;
+}
+
+#content{
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 800px;
+    margin: 0 auto;
+    height: 500px;
+}
+
+a:link { color: #000; text-decoration: none; }
+a:visited { color: #000; text-decoration: none; }
+a:hover { color: #999; }
+a:active { text-decoration: underline;}#meny {
+margin: 30px; 
+padding: 0; 
+list-style: none;
+}
+#meny li {
+display: inline; 
+list-style-type: none;
+padding: 0 10px 0 0;
+}
+
+ul{
+    text-align: center;
+    border: 1px solid #C68DFF;
+    margin-top: 20px;
+    height: 30px;
+}
+
+#main{
+    margin: 10px;
+}
+
+.hidden{
+    display: none;
+}
+
+#judgelist li{
+    list-style: none;
+}
+
+#kontaktform fieldset { 
+    width: 400px; 
+    padding: 20px 0px 20px 50px;
+}
