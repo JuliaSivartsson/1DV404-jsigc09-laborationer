@@ -1,0 +1,19 @@
+"use strict";
+
+function User(name, age, mail){
+
+        // Gör såhär för att få med eventuell felhantering
+        this.getName = function(){return name;};
+        this.setName = function(_name){name = _name;};
+    
+        this.getAge = function(){return age;};
+        this.setAge = function(_age){age = _age || 15;};
+        
+        this.getMail = function(){return mail;};
+        this.setMail = function(_mail){mail = _mail;};
+    
+        this.setName(name);
+        this.setAge(age);
+        this.setMail(mail);
+
+}
