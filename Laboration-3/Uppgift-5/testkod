@@ -1,0 +1,54 @@
+// Testkod för att kontrollera League klassen
+var leagueTest = function TestLeague(){
+    var league = new League();
+    
+    //Funktion för att testa addTeam() utan inparameter
+    var emptyTeamName = function(){ 
+        league.addTeam();
+        
+        //Hämta lista med lagnamn om listan är tom
+        console.log(league.getTeams());
+    };
+    console.log(emptyTeamName());
+    
+    //Funktion för att testa getTeams() med inparameter
+    var notEmptyTeamName = function(){
+        league.addTeam("Lag1");
+        league.addTeam("Lag2");
+        
+        //Hämta lista med lagnamn om listan inte är tom
+        console.log(league.getTeams());
+    };
+    
+    console.log(notEmptyTeamName());
+};
+
+// Testkod för att kontrollera Team klassen
+var teamTest = function TestTeam(){
+    var team = new Team();
+    
+    //Funktion för att testa namn, lagledare och medlemmar egenskaperna utan inparametrar
+    var testEmptyProperties = function(){
+        team.setName();
+        team.setTeamLeader();
+        team.setMembers();
+        console.log(team.getName(), team.getTeamLeader(), team.getMembers());
+    };
+    console.log(testEmptyProperties());
+    
+    //Funktion för att testa namn, lagledare och medlemmar egenskaperna med inparametrar
+    var testNotEmptyProperties = function(){
+        team.setName("Linneus hjältar");
+        team.setTeamLeader("Ellen Nu");
+        team.setMembers("12");
+        console.log(team.getName(), team.getTeamLeader(), team.getMembers());
+    };
+    console.log(testNotEmptyProperties());
+
+};
+
+//När fönstret är laddat så körs testerna för League och Team
+window.onload = function(){
+    leagueTest();
+    teamTest();
+};
