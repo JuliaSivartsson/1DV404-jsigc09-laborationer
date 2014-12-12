@@ -1,19 +1,55 @@
 "use strict";
 
-function User(name, age, mail){
-
-        // Gör såhär för att få med eventuell felhantering
-        this.getName = function(){return name;};
-        this.setName = function(_name){name = _name;};
+window.onload = function(){
     
-        this.getAge = function(){return age;};
-        this.setAge = function(_age){age = _age || 15;};
-        
-        this.getMail = function(){return mail;};
-        this.setMail = function(_mail){mail = _mail;};
+    // Test to create a new team
+    var lag2 = new Team("Lag 2", "Julia", "3");
     
-        this.setName(name);
-        this.setAge(age);
-        this.setMail(mail);
+    // Test to add two teams to League class
+    var league = new League();
+    league.addTeam("Lag 1");
+    league.addTeam(lag2.getName());
+    console.log(league.getTeams());
+};
 
+function Team(name, teamLeader, members) {
+    
+    this.getName = function(){return name;};
+    this.setName = function(_name){name = _name || "Lagets namn saknas!";};
+
+    this.getTeamLeader = function(){return teamLeader;};
+    this.setTeamLeader = function(_teamLeader){teamLeader = _teamLeader || "Lagledare är inte definierad!";};
+    
+    this.getMembers = function(){return members;};
+    this.setMembers = function(_members){members = _members || "Antal medlemmar är inte definierad!";};
+
+
+    this.setName(name);
+    this.setTeamLeader(teamLeader);
+    this.setMembers(members);
 }
+
+
+
+function League(){
+    this.teams = [];
+}
+
+League.prototype.addTeam = function(teamName) {
+/* Add team to this.teams */
+    this.teams.push({
+        name: teamName
+    });
+};
+
+League.prototype.getTeams = function(){
+/* Sends back all teams in this.teams */
+    
+    if(this.teams.length === 0){
+        console.log("No teams registered.");
+    }
+    
+    this.teams.forEach(function(entry){
+        console.log(entry.name);
+    }); 
+};
