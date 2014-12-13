@@ -1,3 +1,5 @@
+/* Har använt mig av framwork Jasmine */
+
 describe( "Team library", function () {
     
     var team = new Team();
