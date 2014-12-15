@@ -37,9 +37,16 @@ function League(){
 
 League.prototype.addTeam = function(teamName) {
 /* Add team to this.teams */
-    this.teams.push({
-        name: teamName
-    });
+
+    if(teamName === undefined){
+        return "Laget måste ha ett namn!";
+    }
+    
+    else{
+        this.teams.push({
+            name: teamName
+        });
+    }
 };
 
 League.prototype.getTeams = function(){
