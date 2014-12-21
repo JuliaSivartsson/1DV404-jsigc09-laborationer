@@ -1,10 +1,3 @@
-
-
-
-
-..ö
- 
-
 Iterationsplanering
 1. Tidsplanering
 
